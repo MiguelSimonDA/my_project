@@ -5,3 +5,4 @@ Supermarket list:
 - Bread
 - Milk
 - Apples
+- Eggs
